@@ -1,0 +1,6 @@
+{
+  "name": "Mu'rib - Subtle Arabic Grammar & Morphology Analyzer",
+  "description": "Comprehensive Arabic Grammar, Sarf, and Nahw engine providing subtle-level breakdown including sighah, bahath, baab, masdar, root, morphophonemic changes (I'lal & Ibdal), and detailed syntactic I'rab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
